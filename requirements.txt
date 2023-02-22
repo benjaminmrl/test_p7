@@ -1,5 +1,6 @@
 datetime
-flask==1.1.2
+flask==2.1.0
+lightgbm==3.3.4
 matplotlib
 pickleshare==0.7.5
 pandas
