@@ -1,7 +1,7 @@
 datetime
 flask==1.1.2
 matplotlib
-pickle5
+pickleshare==0.7.5
 pandas
 requests
 shap==0.41.0
